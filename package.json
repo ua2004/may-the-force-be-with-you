@@ -1,0 +1,30 @@
+{
+  "name": "may-the-force-be-with-you",
+  "version": "1.0.0",
+  "description": "Install this package, and the Force will be with you. Always.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ua2004/may-the-force-be-with-you"
+  },
+  "keywords": [
+    "may",
+    "the Force",
+    "be",
+    "with",
+    "you",
+    "Star Wars",
+    "Anakin Skywalker",
+    "Luke Skywalker",
+    "Obi-Wan Kenobi",
+    "Jedi"
+  ],
+  "author": "ua2004",
+  "license": "WTFPL",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
